@@ -12,6 +12,9 @@
 .nav_custom_container {
     padding-left: 1px;
 }
+.bg-light-custom{ 
+backgroung-color: #ffffff !important;
+}
 .navbar_brand_custom {
     padding-top: 0px;
 }
